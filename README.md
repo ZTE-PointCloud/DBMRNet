@@ -86,7 +86,7 @@ If you find this repository useful for your research, please use the following.
 Some parts of the code are adapted from the following excellent works:
 
 - [MAE](https://github.com/facebookresearch/mae)
-- [PointMAE](https://github.com/showlab/Point-MAE)
+- [PointMAE](https://github.com/Pang-Yatian/Point-MAE)
 
 We sincerely thank the authors for their contributions.
 
